@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cwiczenia1": {
+      "commandName": "Project",
+      "commandLineArgs": "http://www.pocztowe.info/adres_email.php"
+    }
+  }
+}
